@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         if (navHostFragment != null) {
             navController = navHostFragment.getNavController();
 
+
             // Setup NavigationUI here
             NavigationUI.setupActionBarWithNavController(this, navController);
         }
