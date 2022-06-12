@@ -4,7 +4,7 @@ public class Constants {
     public static final String baseUrl = "https://www.google.com";
     public static final String anotherBaseUrl = "https://www.instagram.com";
 
-    public static final String experimentalUrl = "change 1";
+    public static final String experimentalUrl = "change 2";
 
 
 }
