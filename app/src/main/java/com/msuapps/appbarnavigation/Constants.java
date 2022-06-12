@@ -6,7 +6,4 @@ public class Constants {
     public static final String anotherBaseUrl = "https://www.instagram.com";
 
 
-    today is a good day
-
-
 }
