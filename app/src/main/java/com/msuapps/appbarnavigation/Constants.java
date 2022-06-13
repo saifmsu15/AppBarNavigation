@@ -7,7 +7,4 @@ public class Constants {
     public static final String lastUrl = "This line will be Merged";
     public static final String fromFriendUrl = "Hello from your friend";
     public static final String fromMyselfUrl = "Hello from Myself";
-
-    From 20th Mon I have to go for office;
-
 }
