@@ -8,6 +8,4 @@ public class Constants {
     public static final String fromFriendUrl = "Hello from your friend";
     public static final String fromMyselfUrl = "Hello from Myself";
 
-
-    asad uddin owaisi is a great leader
 }
