@@ -7,9 +7,11 @@ import androidx.navigation.fragment.NavHostFragment;
 import androidx.navigation.ui.NavigationUI;
 
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
     NavController navController;
+    private static final String TAG = "MainActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
             navController = navHostFragment.getNavController();
             // Setup NavigationUI here
             NavigationUI.setupActionBarWithNavController(this, navController);
+            Log.e(TAG, "onCreate: " + "testing");
         }
 
     }
